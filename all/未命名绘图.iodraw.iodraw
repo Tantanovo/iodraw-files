@@ -9,6 +9,9 @@
             <mxPoint x="380" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UIewFteLxaxyzjGQqaNt-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UIewFteLxaxyzjGQqaNt-1" target="UIewFteLxaxyzjGQqaNt-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UIewFteLxaxyzjGQqaNt-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="260" width="120" height="60" as="geometry" />
         </mxCell>
@@ -16,7 +19,7 @@
           <mxGeometry x="340" y="150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UIewFteLxaxyzjGQqaNt-4" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="250" width="120" height="80" as="geometry" />
+          <mxGeometry x="670" y="250" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
